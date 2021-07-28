@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lessons2</string>
+    <string name="randomizer">randomizer</string>
+    <string name="sumbit">sumbit</string>
+    <string name="type_here">type_here</string>
+    <string name="todo">TODO</string>
+</resources>
